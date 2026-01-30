@@ -32,7 +32,7 @@
 ## 📫 Contact
 - **GitHub:** [Solayman498](https://github.com/Solayman498)  
 - **Email:** solaymanhm40@gmail.com  
-- **LinkedIn:** [linkedin.com/in/Md Solayman](www.linkedin.com/in/md-solayman-971b8b313)
+- **LinkedIn:** [Md Solayman](www.linkedin.com/in/md-solayman-971b8b313)
 
 ---
 
