@@ -1,31 +1,24 @@
 # Hi, I'm Solayman 👋
 
-🎓 CSE Student | 💻 Web Developer | 🤖 ML Enthusiast
-
----
+🎓 CSE Student  
+💻 Web Developer & ML Enthusiast  
+🎨 Video Editing / Graphics Design Hobbyist  
 
 ## 🔧 Skills
-- **Languages:** PHP, Python, HTML, CSS, JavaScript  
-- **Frameworks:** Laravel, Bootstrap  
-- **Databases:** MySQL  
-- **Tools:** Git, GitHub, VS Code  
-- **Other:** Machine Learning basics, Data Preprocessing
-
----
+- **Backend:** PHP, Laravel  
+- **Programming & ML:** Python, Machine Learning  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Other:** Git & GitHub, Video Editing, Graphics Design  
 
 ## 📌 Projects
-1. **Banner Management System (Laravel)**  
-   - Backend CRUD system  
-   - PDF/Excel download  
-   - Image handling & soft delete
+### 1. Skin Cancer Classification (Python & ML)
+- Data preprocessing, model training, evaluation  
+- Predicts skin cancer type from images  
 
-2. **Skin Cancer Classification (Python)**  
-   - ML model to classify skin lesions  
-   - Data preprocessing, model training, evaluation  
-
-3. **Mini Projects**  
-   - Portfolio website (HTML/CSS)  
-   - Simple Calculator (Python)
+### 2. User Data Management System (Laravel & PHP)
+- CRUD system for user data  
+- PDF & Excel export  
+- Role-based access  
 
 ---
 
