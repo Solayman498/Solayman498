@@ -31,8 +31,9 @@
 
 ## 📫 Contact
 - **GitHub:** [Solayman498](https://github.com/Solayman498)  
-- **Email:** solaymanhm40@gmail.com  
-- **LinkedIn:** [Md Solayman](www.linkedin.com/in/md-solayman-971b8b313)
+- **Email:** [solaymanhm](solaymanhm40@gmail.com)  
+- **LinkedIn:** [Md Solayman](https://www.linkedin.com/in/md-solayman-971b8b313)
+
 
 ---
 
