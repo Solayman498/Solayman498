@@ -1,48 +1,49 @@
 # Hi, I'm Solayman 👋
 
-🎓 CSE Student
-💻 Junior Web Developer (Laravel) | ML Enthusiast
-🎨 Video Editing & Graphics Design Hobbyist 
+💻 **Junior Web Developer (Laravel) | ML Enthusiast**  
+🎨 **Video Editing & Graphics Design Hobbyist**
 
-🔧 Skills
+---
 
-Backend:
-PHP, Laravel
+## 🔧 Skills
 
-Frontend:
-HTML, CSS, JavaScript
+**Backend:**  
+- PHP  
+- Laravel  
 
-Programming & ML:
-Python, Machine Learning
+**Frontend:**  
+- HTML  
+- CSS  
+- JavaScript  
 
-Other Tools:
-MySQL, Git & GitHub, PDF & Excel Export, Video Editing, Graphics Design
+**Programming & ML:**  
+- Python  
+- Machine Learning  
 
-📌 Projects
+**Other Tools:**  
+- MySQL  
+- Git & GitHub  
+- PDF & Excel Export  
+- Video Editing  
+- Graphics Design  
 
-1. Skin Cancer Classification (Python & Machine Learning)
+---
 
-Preprocessed medical image dataset
+## 📌 Projects
 
-Trained and evaluated ML model
+### 1. Skin Cancer Classification (Python & Machine Learning)
+- Preprocessed medical image dataset  
+- Trained and evaluated ML model  
+- Predicts skin cancer type from images  
 
-Predicts skin cancer type from images
-
-2. User Data Management System (Laravel & PHP)
-
-Full CRUD system for user data
-
-Role-based authentication (Super Admin, Admin, User)
-
-Permission control for edit, delete, and restore
-
-Soft delete with recycle bin and restore feature
-
-PDF and Excel export of reports
-
-Payment integration (bKash)
-
-Tracks which user created and updated each record  
+### 2. User Data Management System (Laravel & PHP)
+- Full CRUD system for user data  
+- Role-based authentication (Super Admin, Admin, User)  
+- Permission control for edit, delete, and restore  
+- Soft delete with recycle bin and restore feature  
+- PDF and Excel export of reports  
+- Payment integration (bKash)  
+- Tracks which user created and updated each record  
 
 ---
 
