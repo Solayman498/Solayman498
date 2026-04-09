@@ -1,74 +1,83 @@
 
-<!-- HEADER -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Solayman+👋;Junior+Web+Developer;Machine+Learning+Enthusiast;Graphics+Designer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=180&section=header&text=Solayman%20Portfolio&fontSize=40&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;AI+System+Builder;Problem+Solver" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 ABOUT ME
 
 <p align="center">
-💻 Junior Web Developer | 🤖 ML Enthusiast | 🎨 Graphics Designer  
-</p>
 
-<p align="center">
-🌱 Always learning new technologies • ⚡ Building real-world systems • 🧠 Focused on problem solving
+💻 Full Stack Web Developer  
+🤖 Machine Learning Enthusiast  
+🎨 Graphics Designer  
+
+<br>
+
+⚡ I build real-world systems that solve problems  
+🧠 Focused on AI, backend systems & automation  
+🚀 Always learning and improving every day  
+
 </p>
 
 ---
 
-# 🧩 Projects
+# 🧩 FEATURED PROJECTS
 
+## 🩸 AI Powered Anemia Detection System
 <p align="center">
-<i>Some of my work that I’ve built and worked on</i>
-</p>
 
----
-
-## 🩸 AI Powered Anemia Detection App
-<p>
-✔ Collects blood report data from user  
-✔ Logs symptoms and daily health tracking  
+✔ Collects blood report data from users  
+✔ Tracks symptoms and daily health logs  
 ✔ Detects anemia using AI model  
-✔ Generates personalized diet recommendations  
-✔ Tracks health progress over time  
+✔ Suggests personalized diet plan  
+✔ Daily health progress tracking  
+
 </p>
 
 ---
 
 ## 🧠 Skin Cancer Classification (Machine Learning)
-<p>
+<p align="center">
+
 ✔ Medical image preprocessing  
-✔ Trained ML model on dataset  
+✔ ML model training & evaluation  
 ✔ Predicts skin cancer type from images  
-✔ Model evaluation and accuracy testing  
+✔ Performance accuracy testing  
+
 </p>
 
 ---
 
-## 🗂 User Data Management System (Laravel + PHP)
-<p>
+## 🗂 User Management System (Laravel + PHP)
+<p align="center">
+
 ✔ Full CRUD system  
 ✔ Role-based authentication (Admin / User)  
-✔ Soft delete + recycle bin system  
-✔ Restore deleted data  
+✔ Soft delete + recycle bin  
 ✔ PDF & Excel export reports  
 ✔ bKash payment integration  
-✔ Tracks created and updated records  
+✔ Activity tracking system  
+
 </p>
 
 ---
 
-# 🧰 Tech Stack
+# 🧰 TECH STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,php,laravel,js,html,css,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=python,php,laravel,js,html,css,mysql,git,github,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GITHUB STATS
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Solayman498&show_icons=true&theme=tokyonight" />
@@ -80,7 +89,7 @@
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 CONTRIBUTION GRAPH
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
@@ -88,20 +97,16 @@
 
 ---
 
-# 📫 Contact Me
+# 🌐 CONNECT WITH ME
 
-<p align="center">
-
-📌 GitHub: [Solayman498](https://github.com/Solayman498)  
-📧 Email: [solaymanhm](solaymanhm40@gmail.com)  
-💼 LinkedIn: [Md Solayman](https://www.linkedin.com/in/md-solayman-971b8b313)  
-
-</p>
+- **GitHub:** [Solayman498](https://github.com/Solayman498)  
+- **Email:** [solaymanhm](mailto:solaymanhm40@gmail.com)  
+- **LinkedIn:** [Md Solayman](https://www.linkedin.com/in/md-solayman-971b8b313)  
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ FUN FACT
 
 <p align="center">
-🚀 I love building real-world systems and learning new tech every day
+🚀 I love turning ideas into real working systems
 </p>
