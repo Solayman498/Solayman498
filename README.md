@@ -1,7 +1,7 @@
 # Hi, I'm Solayman 👋
 
-💻 **Junior Web Developer (Laravel) | ML Enthusiast**  
-🎨 **Video Editing & Graphics Design Hobbyist**
+💻 **Junior Web Developer  | ML Enthusiast**  
+🎨 **Graphics Design Hobbyist**
 
 ---
 
