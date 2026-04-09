@@ -7,7 +7,9 @@
 
 ## 🔧 Skills
 
-**Backend:**  
+**Backend:** 
+-Python
+-FastAPI
 - PHP  
 - Laravel  
 
