@@ -5,20 +5,12 @@
 
 <!--- 🎯 ANIMATED TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&random=false&width=1000&height=70&lines=%E2%9A%A1+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8E%AE+Problem+Solver+%26+Innovator;%F0%9F%92%AA+20%2B+Projects+Completed" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&random=false&width=1000&height=70&lines=%E2%9A%A1+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8E%AE+Problem+Solver+%26+Innovator" />
 </p>
 
 
 <!-- PROFILE SECTION -->
 <div align="center">
-  
-  <!-- Animated Avatar Badge -->
-  <div style="display: inline-block; background: linear-gradient(135deg, #00F7FF, #6A00FF, #FF00E5); border-radius: 50%; padding: 5px;">
-    <div style="background: #0A0A0A; border-radius: 50%; padding: 20px 25px;">
-      <h1 style="margin: 0; font-size: 48px; background: linear-gradient(135deg, #00F7FF, #6A00FF, #FF00E5); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">S</h1>
-    </div>
-  </div>
-  
   <h2 style="background: linear-gradient(135deg, #00F7FF, #6A00FF, #FF00E5); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">⚡ About Me</h2>
   
   <table align="center" style="width: 100%; max-width: 800px;">
