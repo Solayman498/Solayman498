@@ -128,9 +128,7 @@
 <br>
 
 ---
-
-# 🐍 CONTRIBUTION GRAPH
-
+<h2 align="center">🐍 CONTRIBUTION GRAPH</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -140,12 +138,20 @@
 </div>
 
 ---
-
-# 🌐 CONNECT WITH ME
-
-- **GitHub:** [Solayman498](https://github.com/Solayman498)  
-- **Email:** [solaymanhm](mailto:solaymanhm40@gmail.com)  
-- **LinkedIn:** [Md Solayman](https://www.linkedin.com/in/md-solayman-971b8b313)  
+<h2 align="center">🌐 CONNECT WITH ME</h2>
+<div align="center">
+  <a href="https://github.com/Solayman498">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/md-solayman-971b8b313">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:solaymanhm40@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
