@@ -128,7 +128,7 @@
 <br>
 
 ---
-<h2 align="center">🐍 CONTRIBUTION GRAPH</h2>
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
