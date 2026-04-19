@@ -20,7 +20,7 @@
         <p>PHP • Laravel • FastAPI</p>
       </td>
       <td align="center" style="padding: 15px; background: rgba(106,0,255,0.05); border-radius: 15px;">
-        <h3>🤖 ML Engineer</h3>
+        <h3>🤖AI Enthusiast</h3>
         <p>TensorFlow • PyTorch</p>
       </td>
       <td align="center" style="padding: 15px; background: rgba(255,0,229,0.05); border-radius: 15px;">
