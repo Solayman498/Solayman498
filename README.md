@@ -115,8 +115,7 @@
 <br>
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Solayman498&theme=tokyonight&background=00000000&hide_border=true&stroke=00F7FF&ring=6A00FF&fire=00F7FF&currStreakNum=ffffff&sideNums=00F7FF&currStreakLabel=00F7FF&sideLabels=00F7FF" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Solayman498&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
