@@ -109,13 +109,21 @@
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS - FIXED VERSION -->
 <h2 align="center">📊 GITHUB STATS</h2>
 
 <br>
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Solayman498&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Solayman498&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=FF00E5&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Solayman498&theme=tokyonight&hide_border=true&background=00000000&stroke=00F7FF&ring=6A00FF&fire=FF00E5&currStreakNum=ffffff&sideNums=00F7FF&currStreakLabel=6A00FF&sideLabels=6A00FF&dates=ffffff" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solayman498&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=ffffff" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Solayman498&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
 <br>
@@ -127,6 +135,7 @@
 <br>
 
 ---
+
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 <div align="center">
   <picture>
