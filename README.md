@@ -37,7 +37,7 @@
   </table>
 </div> 
 <br>
----
+
 
 <!-- FEATURED PROJECTS (YOUR ACTUAL 3 PROJECTS) -->
 <h2 align="center">📌 FEATURED PROJECTS</h2>
@@ -107,28 +107,10 @@
 
 <br>
 
----
-
-<---
-
 <!-- GITHUB STATS -->
-<h2 align="center">📊 GITHUB STATS</h2>
 
-<br>
 
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Solayman498&theme=tokyonight&hide_border=true" />
-</div>
 
-<br>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Solayman498&theme=tokyo-night&bg_color=00000000&color=00F7FF&line=6A00FF&point=00F7FF&area=true&hide_border=true&area_color=6A00FF" />
-</div>
-
-<br>
-
----
 
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 <div align="center">
@@ -155,14 +137,14 @@
   </a>
 </p>
 
-<!-- বিকল্প: ইমেল ঠিকানা দেখানোর জন্য -->
+
 <p align="center">
   <small>📧 <strong>solaymanhm40@gmail.com</strong></small>
 </p>
 
 ---
 
-# ⚡ FUN FACT
+<h2 align="center">⚡ FUN FACT</h2>
 
 <p align="center">
 🚀 I love turning ideas into real working systems
